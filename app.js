@@ -6,7 +6,7 @@ console.log(subtract(18, 12));
 console.log(toUpperCase('krishna'));
 console.log(toLowerCase('PROGRAMMING'));
 
-addAndLogUpper(10, 70);
+addAndLogUpper(10, 50);
 
 const array = [1, 2, 4, 5, 8];
 const multiplier = 10;
